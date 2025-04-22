@@ -1,0 +1,4 @@
+{
+  "id": 1000,
+  "title": "A title from a Cypress test",
+  "content":"Hello!\n\nThis is a post written from a Cypress test."}
